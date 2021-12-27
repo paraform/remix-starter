@@ -1,6 +1,16 @@
-# Welcome to Remix!
+# Remix starter with stitches!
 
-- [Remix Docs](https://remix.run/docs)
+Proposed stack:
+
+- [Remix](https://remix.run/docs) [x]
+- [Stitches](https://stitches.dev/docs/installation) [x]
+- [Radix](https://www.radix-ui.com/docs/primitives/overview/getting-started) [ ]
+- [Supabase](https://supabase.com/docs) [ ]
+- [Prisma](https://www.prisma.io/docs/) [ ]
+- [Framer Motion](https://www.framer.com/motion/) [ ]
+- [Turbo Repo](https://turborepo.org/) [ ]
+- [Jest](https://jestjs.io/) [ ]
+- [Storybook](https://storybook.js.org/) [ ]
 
 ## Deployment
 
